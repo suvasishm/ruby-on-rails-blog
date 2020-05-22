@@ -13,4 +13,4 @@ This is a basic application provided by Rails for learning purpose.
 Visit http://localhost:3000/
 
 Ref: 
-1. https://guides.rubyonrails.org/getting_started.html
+1. https://guides.rubyonrails.org/index.html
